@@ -14,7 +14,9 @@ const port = 5000;
 // Middleware for parsing JSON request bodies
 app.use(cors());
 app.use(express.json());
-
+app.get('/',(req,res)=>{
+    res.send("working!!!");
+})
 // Mount the authentication and notes routes
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/notes', require('./routes/notes'));
