@@ -10,10 +10,7 @@ NoteSync comes with a range of features that make it a powerful tool for note-ta
 * **Note creation** : users can create notes with a title and content.
 * **Note editing** : users can edit existing notes.
 * **Note deletion** : users can delete existing notes.
-* **Note sorting** : users can sort notes by date or by title.
 * **Responsive design** : NoteSync is optimized for both desktop and mobile devices.
-* **Organize notes** : NoteSync allows users to organize their notes into folders and subfolders, making it easy to find and manage specific notes.
-* **Search** : NoteSync comes with a powerful search feature that allows users to quickly find notes based on keywords or phrases.
 * **Secure** : NoteSync ensures the security of user data by using industry-standard encryption and security protocols.
 
 ## Installation
